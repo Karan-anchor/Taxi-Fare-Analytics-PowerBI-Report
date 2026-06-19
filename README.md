@@ -231,11 +231,7 @@ Add screenshots for all pages:
 
 
 '''Homepage'''
-![Dashboard img](![Uploading Homepage.jpeg…]()
-
-
-
-)
+[![Dashboard img](https://github.com/Karan-anchor/Taxi-Fare-Analytics-PowerBI-Report/blob/main/Homepage.jpeg)
 
 Overall Report
 Vehicle Type Report
