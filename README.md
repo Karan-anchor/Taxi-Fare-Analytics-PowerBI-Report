@@ -227,19 +227,26 @@ The report helps:
 
 # Report Preview
 
-Add screenshots for all pages:
-
-
-'''Homepage'''
-[![Dashboard img](https://github.com/Karan-anchor/Taxi-Fare-Analytics-PowerBI-Report/blob/main/Homepage.jpeg)
+Homepage
+[Dashboard img](https://github.com/Karan-anchor/Taxi-Fare-Analytics-PowerBI-Report/blob/main/Homepage.jpeg)
 
 Overall Report
-Vehicle Type Report
-Revenue Report
-Cancellation Report
-Ratings Report
-Summary Report
+[Dashboard img](https://github.com/Karan-anchor/Taxi-Fare-Analytics-PowerBI-Report/blob/main/Overall.jpeg)
 
+Vehicle Type Report
+[Dashboard img](https://github.com/Karan-anchor/Taxi-Fare-Analytics-PowerBI-Report/blob/main/Vehcile.jpeg)
+
+Revenue Report
+[Dashboard img](https://github.com/Karan-anchor/Taxi-Fare-Analytics-PowerBI-Report/blob/main/Revenue.jpeg)
+
+Cancellation Report
+[Dashboard img](https://github.com/Karan-anchor/Taxi-Fare-Analytics-PowerBI-Report/blob/main/Cancellation.jpeg)
+
+Ratings Report
+[Dashboard img](https://github.com/Karan-anchor/Taxi-Fare-Analytics-PowerBI-Report/blob/main/Ratings.jpeg)
+
+Summary Report
+[Dashboard img](https://github.com/Karan-anchor/Taxi-Fare-Analytics-PowerBI-Report/blob/main/Summary.jpeg)
 
 ---
 
