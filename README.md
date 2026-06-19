@@ -225,19 +225,25 @@ The report helps:
 
 ---
 
-# Screenshots Section
+# Report Preview
 
 Add screenshots for all pages:
 
-```text
-Homepage
+
+'''Homepage'''
+![Dashboard img](![Uploading Homepage.jpeg…]()
+
+
+
+)
+
 Overall Report
 Vehicle Type Report
 Revenue Report
 Cancellation Report
 Ratings Report
 Summary Report
-```
+
 
 ---
 
